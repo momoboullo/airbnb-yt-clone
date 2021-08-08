@@ -54,10 +54,11 @@ function Header({ placeholder }) {
         className="relative flex items-center h-10 cursor-pointer my-auto"
       >
         <Image
-          src="https://links.papareact.com/qd3"
+          src="https://techstory.in/wp-content/uploads/2020/11/5abcc13e-d206-414c-9c8b-e84d1b649aeb.jpg"
           layout="fill"
           objectFit="contain"
           objectPosition="left"
+          className="rounded-3xl"
         />
       </div>
 
